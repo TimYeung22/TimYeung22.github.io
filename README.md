@@ -3,8 +3,8 @@
 #### Technical Skills: Python, C#, Java, SQL, R, MATLAB, Tableau, Jenkins, Powershell, Node.js
 
 ## Education							       		
-- Data Science & Engineering MSc | University of Dundee (_September 2023_)	 			        		
-- BSc in Computing Mathematics | City University of Hong Kong (_September 2021_)
+- Data Science & Engineering MSc | University of Dundee (_2022-2023_)	 			        		
+- BSc in Computing Mathematics | City University of Hong Kong (_2017-2021_)
 
 ## Projects
 ### Culture Heritage Gamification (Master Project)
