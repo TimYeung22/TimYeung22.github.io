@@ -21,4 +21,5 @@ A personal project using Python to predict full 2020 EPL season win loss record 
 
 ### Video Streaming Website
 [Github Link](https://github.com/TimYeung22/myflix_nodejs)
-#### A course work using Node.js to host a video strtaming website on Google Cloud Platform. The videos and their information are stored on a MongoDB database and apply Jenkins for continuous deployment.
+
+A course work using Node.js to host a video strtaming website on Google Cloud Platform. The videos and their information are stored on a MongoDB database and apply Jenkins for continuous deployment.
