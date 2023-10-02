@@ -23,6 +23,6 @@ A course work using R to analyse MLB season data before 2022 to find out differe
 A personal project using Python to predict full 2020 EPL season win loss record if the season is not shorten with python package scikit-learn and Tensorflow. The goal is to compare the result produced by multi-target regression from scikit-learn and sequential model from tensorflow, the effect of including stats like goal expectation and efficiency in the training is also examined.
 
 ### Video Streaming Website
-[Github Link](https://github.com/TimYeung22/myflix_nodejs)
+[Github Link for the Node.js repository](https://github.com/TimYeung22/myflix_nodejs)
 
-A course work using Node.js to host a video strtaming website on Google Cloud Platform. The videos and their information are stored on a MongoDB database and apply Jenkins for continuous deployment.
+A course work of designing a video streaming website using Node.js and hosted it on Google Cloud Platform (GCP). Storing videos and their details in a MongoDB database and implementing Jenkins for continuous deployment, streamlining the process of updating and maintaining the website.
