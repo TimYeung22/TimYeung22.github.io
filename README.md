@@ -1,12 +1,17 @@
 # Data Science Graduate
 
-#### Technical Skills: Python, C#, Java, SQL, R, MATLAB, Tableau, Jenkins, Powershell, Node.js
+#### Technical Skills: Python, C#, Java, SQL, R, MATLAB, Tableau, Jenkins, Powershell, Node.js, Excel
 
 ## Education							       		
 - Data Science & Engineering MSc | University of Dundee (_2022-2023_)	 			        		
 - BSc in Computing Mathematics | City University of Hong Kong (_2017-2021_)
 
 ## Projects
+### Predictive analysis on MLB playoff result
+[Github Link](https://colab.research.google.com/drive/1jceRvBkUjUQXlzk2jKYuAwv5Kvz9y7_v?usp=sharing)
+
+A personal project using Python on predicting MLB playoff result using Decision Tree with sk-learn. The goal is to simulate a MLB playoff game with the regular season stat of players produced.
+
 ### Culture Heritage Gamification (Master Project)
 [Github Link](https://github.com/TimYeung22/Gamifying-Digital-Heritage-Building-an-Educational-Game)
 
